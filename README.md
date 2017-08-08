@@ -1,5 +1,9 @@
 # ThingML Editor embedded on docker
 
+## &#x1F537; Purpose
+
+Have an easy deployment environment in order to install and use ThingML throught docker.
+
 ## &#x1F537; More
 
 **Visit [thingml.org](http://www.thingml.org) to find out more about ThingML !**
